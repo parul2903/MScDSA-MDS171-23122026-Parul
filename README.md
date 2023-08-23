@@ -12,4 +12,4 @@ EMAIL: parul.sharma@msds.christuniversity.in
 
 |CLASS|QUESTION|LINK|
 |-------------|---------------------------------------------|------------------|
-|Lab01|Write a program to print your name and push the changes to github|["Lab01"]("Lab01.ipynb")
+|Lab01|Write a program to print your name and push the changes to github|["Lab01"](Lab01.ipynb)
