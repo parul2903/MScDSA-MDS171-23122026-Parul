@@ -16,3 +16,4 @@ EMAIL: parul.sharma@msds.christuniversity.in
 |28-08-2023|Lab02|The Name Collecter's Quest|["Lab02"](Lab02.ipynb)
 |01-09-2023|Lab03|The Tale of Numbers' Harmony|["Lab03"](Lab03.ipynb)
 |04-09-2023|Lab04|A Taste of Success: The Restaurant Management System|["Lab04"](Lab04.ipynb)
+|08-09-2023|Lab05|Mix and Match Calculator["Lab05"](Lab05.ipynb)
