@@ -18,3 +18,4 @@ EMAIL: parul.sharma@msds.christuniversity.in
 |04-09-2023|Lab04|A Taste of Success: The Restaurant Management System|["Lab04"](Lab04/Lab04.ipynb)
 |08-09-2023|Lab05|Mix and Match Calculator|["Lab05"](Lab05/Lab05.ipynb)
 |11-09-2023|Lab06|Vowel Counter|["Lab06"](Lab06/Lab06.ipynb)
+|13-09-2023|Lab07|My Menu Driven Restaurent|["Lab07"](Lab07/Lab07.ipynb)
