@@ -21,3 +21,4 @@ EMAIL: parul.sharma@msds.christuniversity.in
 |13-09-2023|Lab07|My Menu Driven Restaurent|["Lab07"](Lab07/Lab07.ipynb)
 |18-09-2023|Lab08|Matrix Multiplication|["Lab08"](Lab08/Lab08.ipynb)
 |22-09-2023|Lab09|Expense Tracker|["Lab09"](Lab09/Lab09.ipynb)
+|22-09-2023|Lab10|Create a Python Class for managing student details and marks|["Lab10"](Lab10/Lab10.ipynb)
