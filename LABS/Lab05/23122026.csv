@@ -1,100 +1,101 @@
-item, quantity, price
-H, 6, 400
-H, 6, 400
-J, 4, 520
-H, 6, 400
-A, 2, 235
-E, 1, 600
-C, 4, 342
-C, 4, 342
-B, 3, 540
-F, 4, 750
-G, 3, 215
-H, 6, 400
-I, 2, 420
-A, 2, 235
-J, 4, 520
-H, 6, 400
-A, 2, 235
-D, 6, 654
-H, 6, 400
-F, 4, 750
-E, 1, 600
-C, 4, 342
-B, 3, 540
-H, 6, 400
-G, 3, 215
-E, 1, 600
-F, 4, 750
-F, 4, 750
-B, 3, 540
-B, 3, 540
-D, 6, 654
-I, 2, 420
-B, 3, 540
-A, 2, 235
-A, 2, 235
-H, 6, 400
-H, 6, 400
-I, 2, 420
-F, 4, 750
-E, 1, 600
-G, 3, 215
-D, 6, 654
-G, 3, 215
-I, 2, 420
-D, 6, 654
-I, 2, 420
-G, 3, 215
-B, 3, 540
-I, 2, 420
-D, 6, 654
-C, 4, 342
-I, 2, 420
-D, 6, 654
-H, 6, 400
-J, 4, 520
-H, 6, 400
-C, 4, 342
-B, 3, 540
-J, 4, 520
-A, 2, 235
-C, 4, 342
-F, 4, 750
-D, 6, 654
-E, 1, 600
-I, 2, 420
-C, 4, 342
-J, 4, 520
-C, 4, 342
-H, 6, 400
-J, 4, 520
-G, 3, 215
-F, 4, 750
-H, 6, 400
-J, 4, 520
-B, 3, 540
-A, 2, 235
-D, 6, 654
-I, 2, 420
-C, 4, 342
-G, 3, 215
-F, 4, 750
-G, 3, 215
-F, 4, 750
-A, 2, 235
-H, 6, 400
-H, 6, 400
-J, 4, 520
-C, 4, 342
-D, 6, 654
-E, 1, 600
-B, 3, 540
-G, 3, 215
-G, 3, 215
-A, 2, 235
-A, 2, 235
-F, 4, 750
-E, 1, 600
-E, 1, 600
-D, 6, 654
+item,quantity,unit_price
+Primer,1,600
+Lotion,4,750
+Sunscreen,3,215
+Concealer,6,654
+CC cream,2,235
+Lotion,4,750
+Moisturizer,6,400
+CC cream,2,235
+Sunscreen,3,215
+Nail Paint,3,540
+Lotion,4,750
+Nail Paint,3,540
+Primer,1,600
+Moisturizer,6,400
+Moisturizer,6,400
+Moisturizer,6,400
+Lotion,4,750
+Lipstics,4,342
+Lipstics,4,342
+Lipstics,4,342
+CC cream,2,235
+Lipstics,4,342
+Sunscreen,3,215
+Lipstics,4,342
+Lotion,4,750
+Lipstics,4,342
+Moisturizer,6,400
+Concealer,6,654
+Sunscreen,3,215
+Lotion,4,750
+Nail Paint,3,540
+Lotion,4,750
+Concealer,6,654
+Lipstics,4,342
+Moisturizer,6,400
+CC cream,2,235
+Primer,1,600
+Primer,1,600
+Lotion,4,750
+CC cream,2,235
+Concealer,6,654
+Lotion,4,750
+Lipstics,4,342
+Sunscreen,3,215
+Moisturizer,6,400
+CC cream,2,235
+Moisturizer,6,400
+Concealer,6,654
+Concealer,6,654
+Primer,1,600
+CC cream,2,235
+Concealer,6,654
+Primer,1,600
+Concealer,6,654
+Sunscreen,3,215
+Lipstics,4,342
+Concealer,6,654
+Sunscreen,3,215
+Sunscreen,3,215
+Moisturizer,6,400
+CC cream,2,235
+Concealer,6,654
+Primer,1,600
+Lipstics,4,342
+CC cream,2,235
+Primer,1,600
+Lotion,4,750
+Primer,1,600
+Lipstics,4,342
+Primer,1,600
+Concealer,6,654
+Sunscreen,3,215
+Moisturizer,6,400
+Sunscreen,3,215
+Moisturizer,6,400
+Primer,1,600
+Lotion,4,750
+Concealer,6,654
+Moisturizer,6,400
+Primer,1,600
+CC cream,2,235
+CC cream,2,235
+Concealer,6,654
+Sunscreen,3,215
+Sunscreen,3,215
+Lipstics,4,342
+Sunscreen,3,215
+Concealer,6,654
+Moisturizer,6,400
+Moisturizer,6,400
+Lipstics,4,342
+Concealer,6,654
+Sunscreen,3,215
+Nail Paint,3,540
+Lotion,4,750
+Moisturizer,6,400
+Concealer,6,654
+CC cream,2,235
+Lotion,4,750
+Primer,1,600

@@ -1,21 +1,6 @@
-﻿TYPE,CATEGORY,COST,DESCRIPTION,DATE
-expense,Food,874,Breakfast,20/09/2023
-income,Office salary,861,office,20/09/2023
-income,Pocket Money,542,Tanisha,20/09/2023
-expense,Electricity Bill,404,bill,20/09/2023
-expense,Rent,506,house rent,20/10/2023
-expense,Food,432,Dinner,20/10/2023
-income,Pocket Money,724,Tanisha,20/10/2023
-income,Office salary,293,office,20/10/2023
-income,Pocket Money,638,Tanisha,20/11/2023
-expense,Beauty Products,256,"Makeup, Sunscreen",20/11/2023
-expense,Stationary,537,"Pen, Register, A4 size sheets",20/11/2023
-expense,Food,306,dinner,20/11/2023
-income,Office salary,451,office,20/12/2023
-expense,Salon,848,salon,20/12/2023
-income,Food,265,Lunch,20/12/2023
-expense,Shopping,604,Clothes,20/12/2023
-expense,Food,439,Date with Arshika,20/01/2024
-income,Pocket Money,956,Tanisha,20/01/2024
-expense,Beauty Products,500,"Makeup, sunscreen",20/01/2024
-expense,Electricity Bill,973,bill,20/01/2024
+type,category,cost,description,date
+Expense,shopping,350.0,groceries,2023-09-23
+Expense,bills,3000.0,electricity bill,2023-09-25
+Expense,travel,5500.0,work,2023-09-20
+Income,salary,350000.0,office,2023-09-01
+Income,investment,30000.0,stocks,2023-09-15
